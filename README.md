@@ -1,1 +1,1 @@
-Task Description: Write a Java method isPalindrome(String s) that returns true if the given string s is a palindrome, and false otherwise. A string is considered a palindrome if it reads the same backward as forward, ignoring case sensitivity and non-alphanumeric characters.
+Objectives: Implement a palindrome checker in Java. Understand and analyze the theoretical time complexity of the algorithm. Measure the experimental time complexity of the implemented algorithm. Compare theoretical and experimental results.
